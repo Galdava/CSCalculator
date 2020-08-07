@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSCalculator", "CSCalculator\CSCalculator.csproj", "{87B5A888-D451-43E4-84E2-DCCC46BE5ACE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CalculatorCSGO500Installer", "CalculatorCSGO500Installer\CalculatorCSGO500Installer.vdproj", "{696FE754-DA8B-4907-8CEF-CD5AC7A15434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87B5A888-D451-43E4-84E2-DCCC46BE5ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B5A888-D451-43E4-84E2-DCCC46BE5ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B5A888-D451-43E4-84E2-DCCC46BE5ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B5A888-D451-43E4-84E2-DCCC46BE5ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{696FE754-DA8B-4907-8CEF-CD5AC7A15434}.Debug|Any CPU.ActiveCfg = Release
+		{696FE754-DA8B-4907-8CEF-CD5AC7A15434}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79B120C0-6144-47A9-8086-AD2D1624527B}
+	EndGlobalSection
+EndGlobal
